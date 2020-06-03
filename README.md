@@ -6,8 +6,8 @@ A location based application that you can upload 360° videos via the web panel 
 
 Roadmap: 
  - [x]  Part 1: Minimal Backend & Frontend Requirements
- - [  ] Part 2: Create a socket channel for finding nearest locations
--  [ ] Part 3:  Build an iOS app using Swift + SwifUI
+ - [ ] Part 2: Create a socket channel for finding nearest locations
+ - [ ] Part 3:  Build an iOS app using Swift + SwifUI
 
 ---
 
