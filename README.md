@@ -1,5 +1,16 @@
 # Threehundred60
 
+A location based application that you can upload 360° videos via the web panel and play them in an iOS mobile application that we're going to build using SwiftUI through a video tutorial series. 
+
+[Tutorial Video](https://youtu.be/XapozN5o2YA)
+
+Roadmap: 
+ - [x]  Part 1: Minimal Backend & Frontend Requirements
+ - [  ] Part 2: Create a socket channel for finding nearest locations
+-  [ ] Part 3:  Build an iOS app using Swift + SwifUI
+
+---
+
 To start your Phoenix server:
 
   * Setup the project with `mix setup`
